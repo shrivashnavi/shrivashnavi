@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "822262383789",
+    "project_id": "cehpoint-app-11393",
+    "storage_bucket": "cehpoint-app-11393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822262383789:android:586ffd1fa590574ddb7224",
+        "android_client_info": {
+          "package_name": "com.example.cehpoint_project_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822262383789-lklrdcng80acssu243uq574q1vptddis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38BREU2ByQp66Db08pIYVZXqQZ7HUsSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822262383789-lklrdcng80acssu243uq574q1vptddis.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822262383789-0a4jivkc8hai0pdbif074409ntc5cdce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cehpointProjectManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
